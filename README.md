@@ -28,8 +28,8 @@ The project builds upon several key areas of research:
 
 ```
 ┌─────────────────┐      ┌────────────────┐      ┌────────────────┐
-│  Random Number  │──►   │   Statistical   │──►   │    Real-time   │
-│   Generation    │      │    Analysis     │      │  Visualization │
+│  Random Number  │──►   │   Statistical   │──►  │    Real-time   │
+│   Generation    │      │    Analysis     │     │  Visualization │
 └─────────────────┘      └────────────────┘      └────────────────┘
         ▲                                                  │
         └──────────────────────────────────────────────────┘
