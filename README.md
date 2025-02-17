@@ -6,6 +6,10 @@ The Psionic Meter is a web-based application designed to explore potential consc
 
 You can download the latest version of the Psionic Meter [here](https://github.com/DexterLagan/quantum-psionic-meter/blob/main/psionic-meter.html?raw=true).
 
+## Downloads
+
+You can <b>download</b> the latest release of Psionic Meter as a standalone HTML file [HERE](https://github.com/DexterLagan/quantum-psionic-meter/releases/).
+
 ## 🎯 Project Overview
 
 The Psionic Meter creates a closed-loop system between human consciousness and random number generation, offering:
