@@ -107,15 +107,6 @@ The Psionic Meter serves as a tool for:
 - Statistical anomaly analysis
 - Consciousness training protocols
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
-
-- Code style and standards
-- Testing requirements
-- Pull request process
-- Development setup
-
 ## 📈 Future Development
 
 Planned enhancements include:
