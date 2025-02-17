@@ -1,4 +1,4 @@
-# Psionic Meter v1.0 🌟
+# Quantum Psionic Meter 🌟
 
 The Psionic Meter is a web-based application designed to explore potential consciousness-mediated influences on random number generation. This project provides a real-time visualization system for investigating and quantifying possible psychokinetic effects through a precise, high-frequency sampling approach.
 
