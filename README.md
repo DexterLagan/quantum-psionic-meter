@@ -2,6 +2,10 @@
 
 The Psionic Meter is a web-based application designed to explore potential consciousness-mediated influences on random number generation. This project provides a real-time visualization system for investigating and quantifying possible psychokinetic effects through a precise, high-frequency sampling approach.
 
+## Try the Demo
+
+You can try an experimental version of the Psionic Meter [here](https://github.com/DexterLagan/quantum-psionic-meter/blob/main/demo.html?raw=true).
+
 ## 🎯 Project Overview
 
 The Psionic Meter creates a closed-loop system between human consciousness and random number generation, offering:
@@ -21,10 +25,6 @@ The project builds upon several key areas of research:
 2. **Bio-Electronic Effects**: Recent research has demonstrated instances where biological entities influenced electronic systems. For example, studies have shown rats affecting robot movement patterns in statistically significant ways.
 
 3. **Statistical Deviation Analysis**: The system analyzes deviations from expected random distributions, looking for patterns that might indicate consciousness-mediated effects.
-
-## Presentation and Demo
-
-[TRY THE DEMO HERE](https://github.com/DexterLagan/quantum-psionic-meter/blob/main/demo.html)
 
 ## 🖥️ Technical Implementation
 
