@@ -36,10 +36,6 @@ The project builds upon several key areas of research:
                          Feedback Loop
 ```
 
-## Download
-
-You can <b>download</b> the latest release of Psionic Meter as a standalone HTML file [HERE](https://github.com/DexterLagan/quantum-psionic-meter/releases/).
-
 ### Key Specifications
 
 - Sample Rate: 60Hz (16.67ms intervals)
@@ -81,6 +77,10 @@ You can <b>download</b> the latest release of Psionic Meter as a standalone HTML
    - Observe simulated influence patterns
    - Use as a training reference
    - Compare with normal operation results
+
+## 💾 Downloads
+
+You can <b>download</b> the latest release of Psionic Meter as a standalone HTML file [HERE](https://github.com/DexterLagan/quantum-psionic-meter/releases/).
 
 ## 🛠️ Technical Details
 
