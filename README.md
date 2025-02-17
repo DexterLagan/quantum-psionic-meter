@@ -24,7 +24,7 @@ The project builds upon several key areas of research:
 
 ## Presentation and Demo
 
-[TRY THE DEMO HERE](https://github.com/DexterLagan/quantum-psionic-meter/blob/main/Psionic Meter Presentation and Demo.html)
+[TRY THE DEMO HERE](https://github.com/DexterLagan/quantum-psionic-meter/blob/main/demo.html)
 
 ## 🖥️ Technical Implementation
 
