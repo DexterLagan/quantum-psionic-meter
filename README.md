@@ -4,7 +4,7 @@ The Psionic Meter is a web-based application designed to explore potential consc
 
 ## Try the Demo
 
-You can try an experimental version of the Psionic Meter [here](https://github.com/DexterLagan/quantum-psionic-meter/blob/main/demo.html?raw=true).
+You can try an experimental version of the Psionic Meter [here](https://github.com/DexterLagan/quantum-psionic-meter/blob/main/psionic-meter.html?raw=true).
 
 ## 🎯 Project Overview
 
