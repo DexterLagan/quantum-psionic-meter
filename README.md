@@ -22,6 +22,10 @@ The project builds upon several key areas of research:
 
 3. **Statistical Deviation Analysis**: The system analyzes deviations from expected random distributions, looking for patterns that might indicate consciousness-mediated effects.
 
+## Presentation and Demo
+
+[TRY THE DEMO HERE](https://github.com/DexterLagan/invoicer/blob/main/LICENSE)
+
 ## 🖥️ Technical Implementation
 
 ### Core System Architecture
